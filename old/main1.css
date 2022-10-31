@@ -51,7 +51,7 @@ ul, li {
 }
 
 .header {
-    background: url('from-wayup/img/header-bg.jpg') no-repeat center top / cover;
+    background: url('../from-wayup/img/header-bg.jpg') no-repeat center top / cover;
     padding-top: 57px;
     color: #fff;
     padding-bottom: 322px
